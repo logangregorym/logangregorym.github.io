@@ -12,7 +12,5 @@ citation: ' Xida Ren, Logan Moody, Mohammadkazem Taram, Matthew Jordan, Dean M. 
 
 {::comment} 
 This paper is about the number 1. The number 2 is left for future work.
-
 Recommended citation: Xida Ren, Logan Moody, Mohammadkazem Taram, Matthew Jordan, Dean M. Tullsen, Ashish Venkat. "I See Dead µops: Leaking Secrets via Intel/AMD µop Caches." <i>48th International Symposium on Computer Architecture (ISCA)</i>, 2021.
-
 {:/comment}
