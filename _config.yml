@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Logan Moody"
   avatar           : "profile.jpeg"
-  bio              : "3rd Year PhD Student at the University of Virginia"
+  bio              : "4rd Year PhD Student at the University of Virginia"
   location         : "Charlottesville, Virginia"
   employer         :
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
