@@ -32,13 +32,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 --->
-  
-Service and leadership
-======
-* Pi Mu Epsilon Mathematics Honor Society Secretary
-
-* Upsilon Pi Epsilon Computer Science Honor Society Secretary
-
-* Supercomputing 2019 Student Volunteer
-	
-*Principles and Practice of Parallel Programming 2019 Student Volunteer
