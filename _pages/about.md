@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a 4rd year Computer Science PhD student at the University of Virginia advised by Ashish Venkat. I am interested in exploring the performance and security implications of aggressive front-end microarchitectural optimizations.
+Hello, I am a 6th year Computer Science PhD student at the University of Virginia, advised by Ashish Venkat. I am interested in exploring the performance and security implications of aggressive front-end microarchitectural optimizations.
 
 Speculative Code Compaction
 ===========================
