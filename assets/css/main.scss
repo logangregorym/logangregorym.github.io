@@ -39,3 +39,77 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Publication cards */
+.pub-list {
+  margin-top: 1.5em;
+}
+
+.pub-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #0092ca;
+  border-radius: 3px;
+  padding: 1.4em 1.6em;
+  margin-bottom: 1.5em;
+
+  &__title {
+    font-size: 1.1em;
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    line-height: 1.4;
+
+    a {
+      color: #222;
+      text-decoration: none;
+
+      &:hover {
+        color: #0092ca;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__meta {
+    font-size: 0.88em;
+    color: #555;
+    margin-bottom: 0.4em;
+  }
+
+  &__authors {
+    font-size: 0.88em;
+    color: #444;
+    margin-bottom: 0.75em;
+  }
+
+  &__abstract {
+    font-size: 0.87em;
+    color: #555;
+    line-height: 1.65;
+    margin-bottom: 0.9em;
+  }
+
+  &__links {
+    margin-top: 0.5em;
+  }
+
+  &__link {
+    display: inline-block;
+    padding: 0.3em 0.9em;
+    border-radius: 3px;
+    font-size: 0.82em;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 0.5em;
+
+    &--pdf {
+      background: #0092ca;
+      color: #fff !important;
+
+      &:hover {
+        background: #006fa3;
+        text-decoration: none;
+      }
+    }
+  }
+}
